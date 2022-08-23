@@ -2,8 +2,9 @@
 
 ###
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=58A6FF&center=true&vCenter=true&width=250&lines=Hi%2C+I'm+Gabriel;Front-End+Development;Experienced+UI%2FUX+Designer" alt="Typing SVG" /></a>
-
+</p>
 
 
 ###
