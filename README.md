@@ -36,4 +36,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/gabrielsoaresgsm/gabrielsoaresgsm/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center"> 
+    ![snake gif](https://github.com/gabrielsoaresgsm/gabrielsoaresgsm/blob/output/github-contribution-grid-snake.svg)
+</div> 
+
