@@ -34,9 +34,4 @@
 
 ###
 
-<br clear="both">
-
-![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-contribution-grid-snake.svg#gh-dark-mode-only)
-
-![GitHub Snake dark](https://github.com/gabrielsoaresgsm/gabrielsoaresgsm/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/gabrielsoaresgsm/gabrielsoaresgsm/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
