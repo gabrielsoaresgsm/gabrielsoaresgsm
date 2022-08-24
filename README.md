@@ -39,3 +39,5 @@
 <img href="https://github.com/gabrielsoaresgsm/gabrielsoaresgsm/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
  
 
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
